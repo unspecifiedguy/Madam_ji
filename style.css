@@ -4,12 +4,12 @@
 
 
 body {
-  height: 100vh;
+  height: 50vh;
   display: flex;
   align-items: center;
   justify-content: center;
 
-  background-size: 500px;
+  background-size: 10000px;
   background-image: url("https://www.psdgraphics.com/wp-content/uploads/2022/01/white-math-paper-texture.jpg");
   background-position: center center;
 }
